@@ -1,3 +1,4 @@
-print("hello world" )
-for n in range(4):
-    print("nigger" )
+if 0 == 9 :
+    print("nigger")
+else:
+    print("banana")
